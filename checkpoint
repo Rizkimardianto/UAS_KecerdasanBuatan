@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Kancil\\python-simple-chatbot\\model.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\Kancil\\python-simple-chatbot\\model.tflearn"
